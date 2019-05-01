@@ -29,6 +29,8 @@ Open the **openapi.yml** and make sure to follow the [OpenAPI specification](htt
 
 You can see samples [here](https://github.com/OAI/OpenAPI-Specification/tree/master/examples/v3.0).
 
+Use [swagger editor](https://editor.swagger.io/) to see visual changes during development
+
 *Note: Only OpenAPI: 3.0.0 will be read lower than that will cause an error*
 
 ## Built With
