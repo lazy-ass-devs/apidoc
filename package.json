@@ -5,10 +5,18 @@
   "dependencies": {
     "redoc": "^2.0.0-rc.4"
   },
+  "engineStrict": true,
+  "engines": {
+    "node": "12.1.x"
+  },
   "scripts": {
     "serve": "npx redoc-cli serve openapi.yml"
   },
   "devDependencies": {},
   "author": "LazyAssDevs",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lazy-ass-devs/apidoc.git"
+  }
 }
