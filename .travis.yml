@@ -7,6 +7,9 @@ git:
   quiet: true
   submodules: false
 
+deploy:
+  skip_cleanup: true
+
 branches:
-  except:
+  only:
     - master
