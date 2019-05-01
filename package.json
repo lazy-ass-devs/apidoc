@@ -1,0 +1,14 @@
+{
+  "name": "apidoc",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "redoc": "^2.0.0-rc.4"
+  },
+  "scripts": {
+    "serve": "npx redoc-cli serve openapi.yml"
+  },
+  "devDependencies": {},
+  "author": "LazyAssDevs",
+  "license": "ISC"
+}
