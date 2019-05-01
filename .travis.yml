@@ -8,5 +8,5 @@ git:
   submodules: false
 
 branches:
-  only:
+  except:
     - master
